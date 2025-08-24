@@ -18,7 +18,7 @@ Dự án được xây dựng nhằm hỗ trợ quản lý & vận hành rạp p
 | Tính năng | Mô tả |
 |-----------|-------|
 | 🎞️ Quản lý phim | Thêm, sửa, xóa phim nhanh chóng |
-| 👥 Quản lý người dùng | Admin có thể quản lý và phân quyền |
+| 👥 Quản lý người dùng | Admin có thể quản lý |
 | 🔍 Tìm kiếm phim | Tìm kiếm nhanh chóng theo tên/thể loại |
 | 📊 Thống kê | Xem số lượng người dùng, phim, lượt xem |
 | 🎨 Giao diện trực quan | Thiết kế hiện đại, dễ sử dụng |
