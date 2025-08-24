@@ -1,16 +1,11 @@
 # 🎬 Quản Trị Website Xem Phim - **Việt Chương Cinema**
-![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/username/repo?style=social)
-![Status](https://img.shields.io/badge/status-Development-blue)
----
-
 ## 📽️ Giới thiệu
 **Việt Chương Cinema** là hệ thống quản trị website xem phim, cho phép quản lý phim, tài khoản người dùng, cũng như trải nghiệm xem phim trực tuyến mượt mà.  
 Dự án được xây dựng nhằm hỗ trợ quản lý & vận hành rạp phim online dễ dàng, trực quan.
-
----
 ## 🔗 Demo
 👉 [Xem Video Demo](https://www.youtube.com/watch?v=17vDIVCryEM)
+- 🖥️ **Vercel Admin:** [bc83-capstone-reactjs-quantriwebxem.vercel.app](https://bc83-capstone-reactjs-quantriwebxem.vercel.app)  
+- 🎬 **Vercel Home:** [bc83-capstone-reactjs-quantriwebxem-nu.vercel.app](https://bc83-capstone-reactjs-quantriwebxem-nu.vercel.app) 
 ---
 
 ## 🔑 Tài khoản Admin (test)
